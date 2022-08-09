@@ -184,7 +184,7 @@ map.on('click', onMapClick);
 //objeto con definición de capas para cada variable
 var vars={'Temperatura':{
         'Promedio Mensual':"atlas_mensuales/T2",
-        'Promedio Diaria':"atlas_diario/T2",
+        'Promedio Diario':"atlas_diario/T2",
         'Máxima Absoluta Diaria':"atlas_maxs_abs_diarios/T2",
         'Máxima Absoluta por Mes':"atlas_maxs_abs_mensuales/T2",
         'Promedio de Máx. Abs. Mensuales':"atlas_promedios_maxs_abs_mensuales/T2",
