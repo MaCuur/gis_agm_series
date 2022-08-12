@@ -1,4 +1,7 @@
 # gis_agm_series
+Página de series de tiempo del atlas del GoM ubicada en la siguiente dirección: https://pronosticos.atmosfera.unam.mx/atlasmeteorologico.gom/ (dentro del panel titulado *[Series de Tiempo](https://pronosticos.atmosfera.unam.mx/AGMseries/temperatura/agm_series.html)*.
+
+
 Página de series de tiempo del atlas del GoM.
 Esta página está basada en la biblioteca leaflet
 
